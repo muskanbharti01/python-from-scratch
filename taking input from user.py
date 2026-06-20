@@ -1,0 +1,6 @@
+name= input("enter your name: ")
+city= input("enter your city:  ")
+dept= input("enter your department: ")
+print("your name is "+ name)
+print("your city is "+ city)
+print("your department is "+ dept)
