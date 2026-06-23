@@ -13,5 +13,6 @@ I will upload:
 ## Progress
 
 ### Week 1: Python Basics
+           i learn list today
 
 Stay tuned as I learn and build! 😊
