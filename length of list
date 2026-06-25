@@ -1,0 +1,7 @@
+#find length of ist 
+fruits = ["apple", "mango", "banana", "orange"]
+
+print(len(fruits))
+
+#banana is in list 
+print ("banana" in fruits)
