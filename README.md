@@ -13,6 +13,7 @@ I will upload:
 ## Progress
 
 ### Week 1: Python Basics
-           i learn list today
+          - i learn list today
+          - largest number in a list
 
-Stay tuned as I learn and build! 😊
+Thank you:)
