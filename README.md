@@ -15,5 +15,6 @@ I will upload:
 ### Week 1: Python Basics
           - i learn list today
           - largest number in a list
+          - first largest in list
 
 Thank you:)
