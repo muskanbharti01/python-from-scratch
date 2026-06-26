@@ -1,4 +1,0 @@
-#first largest number in list using max
-numbers = [10, 45, 23, 67, 89, 67, 12]
-
-print(max(numbers))
