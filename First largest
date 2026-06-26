@@ -1,0 +1,16 @@
+##without using max
+numbers = [10, 45, 23, 67, 89, 67, 12]
+
+print(max(numbers))
+
+##without using max first largest in list
+
+numbers = [10, 45, 23, 67, 89, 67, 12]
+
+largest = numbers[0]
+
+for num in numbers:
+    if num > largest:
+        largest = num
+
+print(largest)
