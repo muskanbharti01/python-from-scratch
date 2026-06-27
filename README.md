@@ -12,9 +12,12 @@ I will upload:
 
 ## Progress
 
-### Week 1: Python Basics
+### topics
           - i learn list today
           - largest number in a list
           - first largest in list
+          -loop in list(finding squares and cubes)
+          -sum of all numbers in list
+          
 
 Thank you:)
