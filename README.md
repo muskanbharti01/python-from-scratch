@@ -12,12 +12,12 @@ I will upload:
 
 ## Progress
 
-### topics
-          - i learn list today
+### topics:
+          - Learn Basics (variables, if else,loop)
+          -what is your name(f)
           - largest number in a list
           - first largest in list
           -loop in list(finding squares and cubes)
           -sum of all numbers in list
-          
 
 Thank you:)
