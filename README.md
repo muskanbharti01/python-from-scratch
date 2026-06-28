@@ -19,5 +19,5 @@ I will upload:
           - first largest in list
           -loop in list(finding squares and cubes)
           -sum of all numbers in list
-
+          - Average of all numbers 
 Thank you:)
