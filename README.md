@@ -20,4 +20,5 @@ I will upload:
           -loop in list(finding squares and cubes)
           -sum of all numbers in list
           - Average of all numbers 
+          - Reverse a list 
 Thank you:)
